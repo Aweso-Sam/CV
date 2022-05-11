@@ -8,10 +8,7 @@ body{
 .webdeveloper{
     color: #66bfbf;
     font-size: 1.5rem;}
-.webdeveloper:hover{
-    letter-spacing: 5px;
-    transition: 2s ease-out;
-}
+
 
 h1{
     color: #66bfbf;
