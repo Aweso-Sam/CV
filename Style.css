@@ -11,6 +11,7 @@ body{
 .webdeveloper:hover{
     letter-spacing: 5px;
     transition: 2s ease-out;
+}
 
 h1{
     color: #66bfbf;
